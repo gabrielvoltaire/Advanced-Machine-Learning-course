@@ -1,2 +1,2 @@
-# DD2434-Advanced-Machine-Learning
-Assignments and Project
+# mladv18project
+Group project for DD2434 - 2019
